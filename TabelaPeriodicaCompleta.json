@@ -1,0 +1,338 @@
+[
+    {
+        "nome": "Hidrog\u00eanio",
+        "simbolo": "H",
+        "numeroAtomico": 1,
+        "grupo": 1,
+        "posi\u00e7\u00e3o": 1
+    },
+    {
+        "nome": "H\u00e9lio",
+        "simbolo": "He",
+        "numeroAtomico": 2,
+        "grupo": 18,
+        "posi\u00e7\u00e3o": 2
+    },
+    {
+        "nome": "L\u00edtio",
+        "simbolo": "Li",
+        "numeroAtomico": 3,
+        "grupo": 1,
+        "posi\u00e7\u00e3o": 3
+    },
+    {
+        "nome": "Ber\u00edlio",
+        "simbolo": "Be",
+        "numeroAtomico": 4,
+        "grupo": 2,
+        "posi\u00e7\u00e3o": 4
+    },
+    {
+        "nome": "Boro",
+        "simbolo": "B",
+        "numeroAtomico": 5,
+        "grupo": 13,
+        "posi\u00e7\u00e3o": 5
+    },
+    {
+        "nome": "Carbono",
+        "simbolo": "C",
+        "numeroAtomico": 6,
+        "grupo": 14,
+        "posi\u00e7\u00e3o": 6
+    },
+    {
+        "nome": "Nitrog\u00eanio",
+        "simbolo": "N",
+        "numeroAtomico": 7,
+        "grupo": 15,
+        "posi\u00e7\u00e3o": 7
+    },
+    {
+        "nome": "Oxig\u00eanio",
+        "simbolo": "O",
+        "numeroAtomico": 8,
+        "grupo": 16,
+        "posi\u00e7\u00e3o": 8
+    },
+    {
+        "nome": "Fl\u00faor",
+        "simbolo": "F",
+        "numeroAtomico": 9,
+        "grupo": 17,
+        "posi\u00e7\u00e3o": 9
+    },
+    {
+        "nome": "Ne\u00f4nio",
+        "simbolo": "Ne",
+        "numeroAtomico": 10,
+        "grupo": 18,
+        "posi\u00e7\u00e3o": 10
+    },
+    {
+        "nome": "S\u00f3dio",
+        "simbolo": "Na",
+        "numeroAtomico": 11,
+        "grupo": 1,
+        "posi\u00e7\u00e3o": 11
+    },
+    {
+        "nome": "Magn\u00e9sio",
+        "simbolo": "Mg",
+        "numeroAtomico": 12,
+        "grupo": 2,
+        "posi\u00e7\u00e3o": 12
+    },
+    {
+        "nome": "Alum\u00ednio",
+        "simbolo": "Al",
+        "numeroAtomico": 13,
+        "grupo": 13,
+        "posi\u00e7\u00e3o": 13
+    },
+    {
+        "nome": "Sil\u00edcio",
+        "simbolo": "Si",
+        "numeroAtomico": 14,
+        "grupo": 14,
+        "posi\u00e7\u00e3o": 14
+    },
+    {
+        "nome": "F\u00f3sforo",
+        "simbolo": "P",
+        "numeroAtomico": 15,
+        "grupo": 15,
+        "posi\u00e7\u00e3o": 15
+    },
+    {
+        "nome": "Enxofre",
+        "simbolo": "S",
+        "numeroAtomico": 16,
+        "grupo": 16,
+        "posi\u00e7\u00e3o": 16
+    },
+    {
+        "nome": "Cloro",
+        "simbolo": "Cl",
+        "numeroAtomico": 17,
+        "grupo": 17,
+        "posi\u00e7\u00e3o": 17
+    },
+    {
+        "nome": "Arg\u00f4nio",
+        "simbolo": "Ar",
+        "numeroAtomico": 18,
+        "grupo": 18,
+        "posi\u00e7\u00e3o": 18
+    },
+    {
+        "nome": "Pot\u00e1ssio",
+        "simbolo": "K",
+        "numeroAtomico": 19,
+        "grupo": 1,
+        "posi\u00e7\u00e3o": 19
+    },
+    {
+        "nome": "C\u00e1lcio",
+        "simbolo": "Ca",
+        "numeroAtomico": 20,
+        "grupo": 2,
+        "posi\u00e7\u00e3o": 20
+    },
+    {
+        "nome": "Esc\u00e2ndio",
+        "simbolo": "Sc",
+        "numeroAtomico": 21,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 21
+    },
+    {
+        "nome": "Tit\u00e2nio",
+        "simbolo": "Ti",
+        "numeroAtomico": 22,
+        "grupo": 4,
+        "posi\u00e7\u00e3o": 22
+    },
+    {
+        "nome": "Van\u00e1dio",
+        "simbolo": "V",
+        "numeroAtomico": 23,
+        "grupo": 5,
+        "posi\u00e7\u00e3o": 23
+    },
+    {
+        "nome": "Cromo",
+        "simbolo": "Cr",
+        "numeroAtomico": 24,
+        "grupo": 6,
+        "posi\u00e7\u00e3o": 24
+    },
+    {
+        "nome": "Mangan\u00eas",
+        "simbolo": "Mn",
+        "numeroAtomico": 25,
+        "grupo": 7,
+        "posi\u00e7\u00e3o": 25
+    },
+    {
+        "nome": "Ferro",
+        "simbolo": "Fe",
+        "numeroAtomico": 26,
+        "grupo": 8,
+        "posi\u00e7\u00e3o": 26
+    },
+    {
+        "nome": "Cobalto",
+        "simbolo": "Co",
+        "numeroAtomico": 27,
+        "grupo": 9,
+        "posi\u00e7\u00e3o": 27
+    },
+    {
+        "nome": "N\u00edquel",
+        "simbolo": "Ni",
+        "numeroAtomico": 28,
+        "grupo": 10,
+        "posi\u00e7\u00e3o": 28
+    },
+    {
+        "nome": "Cobre",
+        "simbolo": "Cu",
+        "numeroAtomico": 29,
+        "grupo": 11,
+        "posi\u00e7\u00e3o": 29
+    },
+    {
+        "nome": "Zinco",
+        "simbolo": "Zn",
+        "numeroAtomico": 30,
+        "grupo": 12,
+        "posi\u00e7\u00e3o": 30
+    },
+    {
+        "nome": "G\u00e1lio",
+        "simbolo": "Ga",
+        "numeroAtomico": 31,
+        "grupo": 13,
+        "posi\u00e7\u00e3o": 31
+    },
+    {
+        "nome": "Germ\u00e2nio",
+        "simbolo": "Ge",
+        "numeroAtomico": 32,
+        "grupo": 14,
+        "posi\u00e7\u00e3o": 32
+    },
+    {
+        "nome": "Ars\u00eanio",
+        "simbolo": "As",
+        "numeroAtomico": 33,
+        "grupo": 15,
+        "posi\u00e7\u00e3o": 33
+    },
+    {
+        "nome": "Sel\u00eanio",
+        "simbolo": "Se",
+        "numeroAtomico": 34,
+        "grupo": 16,
+        "posi\u00e7\u00e3o": 34
+    },
+    {
+        "nome": "Bromo",
+        "simbolo": "Br",
+        "numeroAtomico": 35,
+        "grupo": 17,
+        "posi\u00e7\u00e3o": 35
+    },
+    {
+        "nome": "Cript\u00f4nio",
+        "simbolo": "Kr",
+        "numeroAtomico": 36,
+        "grupo": 18,
+        "posi\u00e7\u00e3o": 36
+    },
+    {
+        "nome": "R\u00e1dio",
+        "simbolo": "Ra",
+        "numeroAtomico": 88,
+        "grupo": 2,
+        "posi\u00e7\u00e3o": 88
+    },
+    {
+        "nome": "Uranio",
+        "simbolo": "U",
+        "numeroAtomico": 92,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 92
+    },
+    {
+        "nome": "Neptúnio",
+        "simbolo": "Np",
+        "numeroAtomico": 93,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 5
+    },
+    {
+        "nome": "Plutônio",
+        "simbolo": "Pu",
+        "numeroAtomico": 94,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 6
+    },
+    {
+        "nome": "Amerício",
+        "simbolo": "Am",
+        "numeroAtomico": 95,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 7
+    },
+    {
+        "nome": "Cúrio",
+        "simbolo": "Cm",
+        "numeroAtomico": 96,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 8
+    },
+    {
+        "nome": "Berquélio",
+        "simbolo": "Bk",
+        "numeroAtomico": 97,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 9
+    },
+    {
+        "nome": "Califórnio",
+        "simbolo": "Cf",
+        "numeroAtomico": 98,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 10
+    },
+    {
+        "nome": "Einsteínio",
+        "simbolo": "Es",
+        "numeroAtomico": 99,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 11
+    },
+    {
+        "nome": "Férmio",
+        "simbolo": "Fm",
+        "numeroAtomico": 100,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 12
+    },
+    {
+        "nome": "Mendelevio",
+        "simbolo": "Md",
+        "numeroAtomico": 101,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 13
+    },
+    {
+        "nome": "Nobelium",
+        "simbolo": "No",
+        "numeroAtomico": 102,
+        "grupo": 3,
+        "posi\u00e7\u00e3o": 14
+    }
+]
