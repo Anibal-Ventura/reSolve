@@ -38,7 +38,6 @@ programs.addEventListener('click', e => {
         });
       break;
     default:
-      alert("operação não encontrada!");
       break;
   }
 })
