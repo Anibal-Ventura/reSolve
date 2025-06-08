@@ -4,6 +4,47 @@ import { converterSistemas } from "./conversorNumero.js";
 const buttons = document.querySelectorAll("button");
 const programs = document.querySelector("#programa");
 
+function conversorSistemaNumerais() {
+  const input2 = document.querySelector("input");
+      const form2 = document.querySelector("form").addEventListener("submit", (e) => {
+          e.preventDefault();
+          const answerPlace2 = document.querySelector("#answerPlace");
+          const selectTwo = document.querySelector("#saida_opcao");
+          const selectOne = document.querySelector("#entrada_opcao");
+        
+          answerPlace2.innerHTML = converterSistemas(input2.value, selectOne.value, selectTwo.value);
+        });
+
+  programs.innerHTML=`
+     <form class="w-full flex flex-col  gap-3">
+          <p>Conversor entre sistemas de numeração</p>
+          <input type="text" placeholder="Insira um numero" class="w-full px-5 py-3 bg-slate-100  border-b border-b-black rounded">
+          <div class="flex flex-col">
+            <label for="entrada_opcao">Entrada</label>
+            <select id="entrada_opcao" class="w-full px-5 py-3 bg-slate-100 border-b border-b-black rounded">
+              <option value="2">Binário</option>
+              <option value="8">Octal</option>
+              <option value="10">Decimal</option>
+              <option value="16">Hexadecimal</option>
+            </select>
+          </div>
+
+          <div class="flex flex-col">
+            <label for="saida_opcao" >Saida</label>
+            <select id="saida_opcao" class="w-full px-5 py-3 bg-slate-100 border-b border-b-black rounded">
+              <option value="2">Binário</option>
+              <option value="8">Octal</option>
+              <option value="10">Decimal</option>
+              <option value="16" selected>Hexadecimal</option>
+            </select>
+          </div>
+
+          <button class="px-5 py-3 bg-gradient-to-b from-indigo-500 to-purple-500 rounded text-white w-full" id="ok_conversor_num">Converter</button>
+          <div id="answerPlace" class=" w-full p-4 bg-slate-100"></div>
+
+        </form>`;
+}
+
 programs.addEventListener('click', e => {
   console.log(e.target.id)
   switch(e.target.id) {
@@ -106,8 +147,8 @@ const resolver = {
   "Outros...": () => alert("Brevemente..."),
 }
 
-buttons.forEach((button) => {
-  button.addEventListener('click', () => {
-    resolver[button.innerText]();
-  });
-});
+// buttons.forEach((button) => {
+//   button.addEventListener('click', () => {
+//     resolver[button.innerText]();
+//   });
+// });
